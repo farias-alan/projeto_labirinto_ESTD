@@ -11,7 +11,7 @@ O problema proposto pelo projeto era fazer com que o ratinho achasse a saída pa
 </p>
 <p>https://panda.ime.usp.br/panda/static/pythonds_pt/04-Recursao/10-labirinto.html</p>
 <p>https://panda.ime.usp.br/panda/static/pythonds_pt/03-EDBasicos/04-PilhaADT.html</p>
-<p>(Não encontrei os outros sites)</p>
+<p>(Não encontrei os outros sites que foram utilizados)</p>
 
 <p>Aluno: Antônio Alan Oliveira Farias</p>
 
